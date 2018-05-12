@@ -1,0 +1,30 @@
+_repo: The-Last-Laird-of-MacNabAn-Episode-in-the-Settlement-of-MacNab-Township-Upper-Canada_35841
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Fraser, Alexander
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '37932'
+    url: http://www.gutenberg.org/2009/agents/37932
+description: ''
+gutenberg_issued: '2011-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35841'
+  lccn: '03032322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'MacNab, Archibald, 1778?-1860'
+- !lcc 'F1001'
+- !lcc 'CT'
+title: 'The Last Laird of MacNab
+
+  An Episode in the Settlement of MacNab Township, Upper Canada'
+url: http://www.gutenberg.org/ebooks/35841
